@@ -5,11 +5,11 @@ Excited to share my latest project in Power BI! This in-depth dashboard analyzes
 Project Breakdown:
 
 Page 1: Virat Kohli's Overall Stats
-Multi-row Card: Represents his averages across all formats, total runs, number of centuries, number of half-centuries, and total matches played.
-Map Visualization: Displays the grounds he has played on worldwide and the runs scored at each ground.
-Funnel Chart: Shows the format-wise distribution of his runs.
-Column Chart: Illustrates his runs across formats over time.
-Line Chart: Depicts his yearly runs progression.
+-->  Multi-row Card: Represents his averages across all formats, total runs, number of centuries, number of half-centuries, and total matches played.
+-->  Map Visualization: Displays the grounds he has played on worldwide and the runs scored at each ground.
+-->  Funnel Chart: Shows the format-wise distribution of his runs.
+-->  Column Chart: Illustrates his runs across formats over time.
+-->  Line Chart: Depicts his yearly runs progression.
 
 Page 2: Understanding Virat Kohli's Adaptability: Format and Opponent Visualizations
 Multi-row Card: Represents his averages against each team.
